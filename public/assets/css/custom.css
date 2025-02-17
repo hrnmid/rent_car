@@ -1,0 +1,23 @@
+.menu-item-pink{
+    background-color: #fd000049;
+}
+
+.aside-menu .menu-nav > .menu-item.menu-item-open > .menu-heading, .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-link {
+    background-color: #ffffff;
+    font-weight: bold;
+}
+
+.aside-menu .menu-nav > .menu-item.menu-item-open > .menu-heading .menu-text, .aside-menu .menu-nav > .menu-item.menu-item-open > .menu-link .menu-text {
+    color: #000000ab;
+    font-weight: bold;
+}
+
+div.dataTables_wrapper {
+    width: 100%!important;
+    margin: 0 auto;
+}
+
+.modal-full {
+    max-width: 99%;
+    margin-left: 2%;
+}
